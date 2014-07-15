@@ -1,6 +1,4 @@
-![A Terrorist Converts: How I Learned to Stop Hating America cover](a-terrorist-converts-cover.jpg)
-
-terrorist-converts
+dreams-must-die
 ==================
 
 Welcome to my series of GitHub novels.
