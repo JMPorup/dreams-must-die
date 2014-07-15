@@ -30,7 +30,7 @@ book details
 
 Jimmy Shade kills dreams. It’s his job. As a member of the elite 
 Dream Police, he defends the Collective against that poisonous 
-\nocturnal ooze.
+nocturnal ooze.
 
 But when Shade himself gets infected with a dream, he finds himself
 on the run from his former colleagues. He must choose between his love
