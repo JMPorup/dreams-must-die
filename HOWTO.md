@@ -13,8 +13,8 @@ Run:
     --author-sort "Porup, J.M." \
     --authors "J.M. Porup" \
     --language English \
-    --title "Dreams Must Die: A Fable of the Far Future" \
-    --title-sort "Dreams Must Die: A Fable of the Far Future" \
+    --title "Dreams Must Die" \
+    --title-sort "Dreams Must Die" \
     --preserve-cover-aspect-ratio
   
 or if you're a Kindle user:
@@ -24,8 +24,8 @@ or if you're a Kindle user:
     --author-sort "Porup, J.M." \
     --authors "J.M. Porup" \
     --language English \
-    --title "Dreams Must Die: A Fable of the Far Future" \
-    --title-sort "Dreams Must Die: A Fable of the Far Future" \
+    --title "Dreams Must Die" \
+    --title-sort "Dreams Must Die" \
     --prefer-author-sort
 
 or if you just want a PDF:
@@ -35,8 +35,8 @@ or if you just want a PDF:
     --author-sort "Porup, J.M." \
     --authors "J.M. Porup" \
     --language English \
-    --title "Dreams Must Die: A Fable of the Far Future" \
-    --title-sort "Dreams Must Die: A Fable of the Far Future" \
+    --title "Dreams Must Die" \
+    --title-sort "Dreams Must Die" \
     --paper-size a4 \
     --pdf-add-toc \
     --pdf-page-numbers \
