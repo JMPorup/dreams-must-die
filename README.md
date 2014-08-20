@@ -1,5 +1,7 @@
+![Dreams Must Die cover](dreams-must-die-cover.jpg)
+
 dreams-must-die
-==================
+===============
 
 Welcome to my series of GitHub novels.
 
